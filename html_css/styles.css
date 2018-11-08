@@ -1,3 +1,15 @@
-body{background:rgb(77, 204, 105)}
-.myTr{background:yellowgreen}
-.button{background:turquoise}
+body{
+    background:rgb(77, 204, 105)
+}
+.myTr{
+    background:yellowgreen
+}
+.button{
+    background:turquoise
+}
+.myTitle{
+    margin-left: 100px;
+}
+.myDiv{
+    border: 2px solid black;
+}
