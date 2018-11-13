@@ -1,0 +1,7 @@
+myTuple=("vivek",685,"fed",63.2,"geo")
+# print(myTuple)
+# print(myTuple[3])
+# print(myTuple[1:4])
+# print(myTuple[3:])
+# print(myTuple*3)
+myTuple2=("ram")
